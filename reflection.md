@@ -22,4 +22,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-
+I learned how to use loops effectively inside functions, and how to call functions properly. I know when to use for vs while loops. For loops are for iterating over a fixed number of values while while loops are for iterating while something is true, until it becomes false.
